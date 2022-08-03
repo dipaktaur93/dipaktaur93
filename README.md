@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer </h3>
 
 <div align=center>
-  <a href="https://https://www.linkedin.com/in/dipak-taur-84302013b/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://www.linkedin.com/in/dipak-taur-84302013b/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <a href="https://twitter.com/dipak_taur"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
   <br><br>
  <p><a href="#">
